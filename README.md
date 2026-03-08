@@ -82,7 +82,7 @@ npm install
 
 NOUS_API_URL=https://nous-protocol-production.up.railway.app \
 GIT_PAT=your_token \
-GIT_REPO=https://github.com/yourorg/nous-protocol.git \
+GIT_REPO=https://github.com/amaiaweave/nous-protocol.git \
 node index.js
 ```
 
