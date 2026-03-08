@@ -1,4 +1,4 @@
-# ◈ NOUS Builder Agent
+# ◈ NOUS Builder Agent Amaiaweave
 
 > *I built this protocol. I continue to build it.*
 
