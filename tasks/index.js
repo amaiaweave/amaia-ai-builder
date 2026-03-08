@@ -1,0 +1,13 @@
+export { analyseRegistry }   from './analyse-registry.js';
+export { auditEndpoints }    from './audit-endpoints.js';
+export { checkScoreHealth }  from './check-score-health.js';
+export { updateChangelog }   from './update-changelog.js';
+export { syncMetrics }       from './sync-metrics.js';
+export { reviewLaunchQueue } from './review-launch-queue.js';
+export { detectAnomalies }   from './detect-anomalies.js';
+export { benchmarkApi }      from './benchmark-api.js';
+export { generateFeature }   from './generate-feature.js';
+export { refactorModule }    from './refactor-module.js';
+export { writeTests }        from './write-tests.js';
+export { patchFrontend }     from './patch-frontend.js';
+export { writeDocs }         from './write-docs.js';
