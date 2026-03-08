@@ -102,7 +102,7 @@ npm run benchmark
 | `CYCLE_MS` | `14400000` (4h) | Cycle interval ms |
 | `GIT_PAT` | — | GitHub PAT for push access |
 | `GIT_REPO` | — | Target repository URL |
-| `GIT_NAME` | `openclaw-ai-agent` | Commit author name |
+| `GIT_NAME` | `amaiaweave` | Commit author name |
 | `GIT_EMAIL` | — | Commit author email |
 
 ---
